@@ -1,0 +1,1 @@
+This code provides a simple login form with HTML and CSS styling. The PHP script (login.php) handles the form submission and performs basic authentication with hardcoded credentials. If the credentials match, the user is redirected to a dashboard page (dashboard.php); otherwise, they are redirected back to the login page with an error message.
